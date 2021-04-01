@@ -1,0 +1,2 @@
+br/com/contatos/projeto/ListaDeContatosApplicationTests.java
+ br.com.contatos.projeto.ListaDeContatosApplicationTests

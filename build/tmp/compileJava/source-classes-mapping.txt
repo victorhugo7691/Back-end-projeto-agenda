@@ -1,0 +1,18 @@
+br/com/contatos/projeto/ListaDeContatosApplication.java
+ br.com.contatos.projeto.ListaDeContatosApplication
+br/com/contatos/projeto/listatelefonica/ListaTelefonica.java
+ br.com.contatos.projeto.listatelefonica.ListaTelefonica
+br/com/contatos/projeto/operadora/Operadora.java
+ br.com.contatos.projeto.operadora.Operadora
+br/com/contatos/projeto/operadora/OperadoraApi.java
+ br.com.contatos.projeto.operadora.OperadoraApi
+br/com/contatos/projeto/listatelefonica/ListaTelefonicaService.java
+ br.com.contatos.projeto.listatelefonica.ListaTelefonicaService
+br/com/contatos/projeto/listatelefonica/ListaTelefonicaApi.java
+ br.com.contatos.projeto.listatelefonica.ListaTelefonicaApi
+br/com/contatos/projeto/listatelefonica/ListaTelefonicaRepository.java
+ br.com.contatos.projeto.listatelefonica.ListaTelefonicaRepository
+br/com/contatos/projeto/operadora/OperadoraRepository.java
+ br.com.contatos.projeto.operadora.OperadoraRepository
+br/com/contatos/projeto/operadora/OperadoraService.java
+ br.com.contatos.projeto.operadora.OperadoraService
